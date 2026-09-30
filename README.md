@@ -1,5 +1,7 @@
 # NTUpoly 🎲
 
+**Public project overview — academic assessment.** This repository contains documentation only. NTUpoly source code is private and cannot be published because it was submitted as an academic assessment. Project scope and non-confidential technical details are available on request; restricted code is not offered for distribution.
+
 An NTU-themed Monopoly-style board game built with **HTML, CSS and JavaScript**.
 
 NTUpoly is an interactive two-player board game inspired by classic property-trading games, redesigned around **Nottingham Trent University (NTU)**. Players can move around the board, purchase properties, collect rent, trade properties, manage their finances and use special cards while competing to build the strongest position.
@@ -117,51 +119,13 @@ The JavaScript manages:
 
 This makes the project a practical example of using JavaScript to manage a relatively large interactive application and multiple interconnected game systems.
 
-## 📁 Project Structure
+## Reviewing this project
 
-```text
-NTUpoly/
-│
-├── index.html
-├── style.css
-├── script.js
-└── [game assets]
-```
+This overview documents the HTML, CSS and JavaScript game. It does not contain the playable application, assets or source files, so cloning the repository will not produce a runnable game.
 
-### Main Files
+[Request project details](mailto:ardasevgiuk@outlook.com?subject=NTUpoly%20project%20enquiry) · [Portfolio](https://arda-sevgi.github.io/Portfolio/)
 
-**`index.html`**  
-Contains the structure of the game interface and board.
-
-**`style.css`**  
-Controls the visual design, layout and presentation of the game.
-
-**`script.js`**  
-Contains the main game logic and interactive functionality.
-
-## 🚀 How to Run
-
-NTUpoly is a browser-based project and does not require any additional frameworks or dependencies.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Arda-Sevgi/NTUpoly.git
-```
-
-### 2. Open the project
-
-Open the project folder and launch:
-
-```text
-index.html
-```
-
-### 3. Start playing
-
-Follow the on-screen instructions to configure the players and begin the game.
-
-For the best experience, run the project using a local development server such as **VS Code Live Server**.
+For runnable public Python code and automated tests, see [Fruit Inventory](https://github.com/Arda-Sevgi/Fruit-Inventory-).
 
 ## 🎯 Learning Objectives
 
